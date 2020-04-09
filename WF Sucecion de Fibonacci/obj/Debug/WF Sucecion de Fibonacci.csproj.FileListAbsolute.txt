@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\WF Sucecion de Fibonacci\WF Sucecion de Fibonacci\bin\Debug\WF Sucecion de Fibonacci.exe.config
+C:\Users\David\source\repos\WF Sucecion de Fibonacci\WF Sucecion de Fibonacci\bin\Debug\WF Sucecion de Fibonacci.exe
+C:\Users\David\source\repos\WF Sucecion de Fibonacci\WF Sucecion de Fibonacci\bin\Debug\WF Sucecion de Fibonacci.pdb
+C:\Users\David\source\repos\WF Sucecion de Fibonacci\WF Sucecion de Fibonacci\obj\Debug\WF Sucecion de Fibonacci.csprojAssemblyReference.cache
+C:\Users\David\source\repos\WF Sucecion de Fibonacci\WF Sucecion de Fibonacci\obj\Debug\WF_Sucecion_de_Fibonacci.Form1.resources
+C:\Users\David\source\repos\WF Sucecion de Fibonacci\WF Sucecion de Fibonacci\obj\Debug\WF_Sucecion_de_Fibonacci.Properties.Resources.resources
+C:\Users\David\source\repos\WF Sucecion de Fibonacci\WF Sucecion de Fibonacci\obj\Debug\WF Sucecion de Fibonacci.csproj.GenerateResource.cache
+C:\Users\David\source\repos\WF Sucecion de Fibonacci\WF Sucecion de Fibonacci\obj\Debug\WF Sucecion de Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\WF Sucecion de Fibonacci\WF Sucecion de Fibonacci\obj\Debug\WF Sucecion de Fibonacci.exe
+C:\Users\David\source\repos\WF Sucecion de Fibonacci\WF Sucecion de Fibonacci\obj\Debug\WF Sucecion de Fibonacci.pdb
